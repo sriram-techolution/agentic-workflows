@@ -1,5 +1,5 @@
 __pycache__/
 *.pyc
-*.env
+.env
 agents/
-*.DS_Store
+.DS_Store
